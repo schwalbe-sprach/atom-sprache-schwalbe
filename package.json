@@ -1,0 +1,17 @@
+{
+  "name": "language-schwalbe",
+  "version": "0.0.0",
+  "description": "Schwalbe language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiliankoe/language-schwalbe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiliankoe/language-schwalbe/issues"
+  },
+  "license": "MIT"
+}
